@@ -1,0 +1,22 @@
+body{
+    background-color: aliceblue;
+    background-image:url(https://th.bing.com/th/id/OIP.GQAJjmgGLyePunPbHPwacAHaEo?cb=iwp2&rs=1&pid=ImgDetMain) ;
+    height: 66vh;           
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(250, 0, 0);
+
+}
+
+h1 {  
+    color: rgb(201, 2, 2);
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 50px;
+ }
+canvas {
+    border: dashed 10px;
+}
