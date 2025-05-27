@@ -38,7 +38,7 @@ let comida = {                   //Math.floor: floor: arrendonda pro número de 
 }
  
 function criarFundo(  ) {
-    contexto.fillStyle = "rgb(0, 0, 0)";  //preenche o estilo com tal cor
+    contexto.fillStyle = "rgb(3, 1, 94)";  //preenche o estilo com tal cor
     contexto.fillRect(0, 0, 16 * caixa, 16 * caixa);
 
     //contexto.fillRect() = desenha um retangulo preenchido no canvas
